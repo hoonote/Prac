@@ -21,7 +21,7 @@ git branch <브랜치명>
 git checkout <브랜치명>
 
 -병합
-> 메인 브랜치로 돌아오기 > git merge +)confilct 나면 한쪽으로 통합하기
+> 메인 브랜치로 돌아오기 > git merge <브랜치명> +)confilct 나면 한쪽으로 통합하기
 
 -삭제
 git branch -d <브랜치명>
